@@ -19,7 +19,7 @@ You can download the **RAVDESS** dataset from the following link:
 Start by cloning the repository:
 
 ```bash
-git clone https://github.com/your-repository/emotion-recognition.git
+git clone https://github.com/Kotka334/MER/tree/main.git
 ```
 
 ### 2. Install Dependencies
@@ -57,15 +57,8 @@ Once the data extraction is complete, you can proceed to train the model by runn
 ```bash
 python src/training/train.py
 ```
-This will start the model training, where both audio and video features will be passed to the **CNN + BiLSTM** model for emotion classification.
+This will start the model training, where both audio and video features will be passed to  model for emotion classification.This will output performance metrics including accuracy, precision, recall, and F1 score for both validation and test sets as well.
 
-### Model Evaluation
-
-After training the model, evaluate its performance using:
-```bash
-python src/training/evaluate.py
-```
-This will output performance metrics including accuracy, precision, recall, and F1 score for both validation and test sets.
 
 ## Acknowledgments
 
