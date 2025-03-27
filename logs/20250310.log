@@ -1,0 +1,224 @@
+2025-03-10 00:12:39,218 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 00:12:39,233 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 00:15:37,605 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 00:15:37,619 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 00:22:52,406 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 00:22:52,418 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 00:23:21,074 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 00:23:21,081 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 01:09:57,106 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 01:09:57,125 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 01:13:04,764 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 01:13:04,775 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 01:16:10,774 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 01:16:10,786 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 01:19:16,449 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 01:19:16,459 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 02:47:35,272 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:47:35,280 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-01-01-01.npy
+2025-03-10 02:47:35,282 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-01-02-01.npy
+2025-03-10 02:47:35,283 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-02-01-01.npy
+2025-03-10 02:47:35,284 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-02-02-01.npy
+2025-03-10 02:47:35,286 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-01-01-01.npy
+2025-03-10 02:47:35,287 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-01-02-01.npy
+2025-03-10 02:47:35,289 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-02-01-01.npy
+2025-03-10 02:47:35,291 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-02-02-01.npy
+2025-03-10 02:47:35,292 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-01-01-01.npy
+2025-03-10 02:47:35,293 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-01-02-01.npy
+2025-03-10 02:47:35,296 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-02-01-01.npy
+2025-03-10 02:47:35,297 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-02-02-01.npy
+2025-03-10 02:47:35,298 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-01-01-01.npy
+2025-03-10 02:47:35,300 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-01-02-01.npy
+2025-03-10 02:47:35,301 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-02-01-01.npy
+2025-03-10 02:47:35,303 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-02-02-01.npy
+2025-03-10 02:47:35,304 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-01-01-01.npy
+2025-03-10 02:47:35,306 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-01-02-01.npy
+2025-03-10 02:47:35,307 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-02-01-01.npy
+2025-03-10 02:47:35,309 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-02-02-01.npy
+2025-03-10 02:47:35,310 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-01-01-01.npy
+2025-03-10 02:47:35,312 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-01-02-01.npy
+2025-03-10 02:47:35,313 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-02-01-01.npy
+2025-03-10 02:47:35,314 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-02-02-01.npy
+2025-03-10 02:47:35,316 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-01-01-01.npy
+2025-03-10 02:47:35,317 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-01-02-01.npy
+2025-03-10 02:47:35,318 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-02-01-01.npy
+2025-03-10 02:47:35,318 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-02-02-01.npy
+2025-03-10 02:47:35,319 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-01-01-01.npy
+2025-03-10 02:47:35,321 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-01-02-01.npy
+2025-03-10 02:47:35,322 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-02-01-01.npy
+2025-03-10 02:47:35,324 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-02-02-01.npy
+2025-03-10 02:47:35,326 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-01-01-01.npy
+2025-03-10 02:47:35,327 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-01-02-01.npy
+2025-03-10 02:47:35,328 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-02-01-01.npy
+2025-03-10 02:47:35,329 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-02-02-01.npy
+2025-03-10 02:47:35,330 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-01-01-01.npy
+2025-03-10 02:47:35,332 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-01-02-01.npy
+2025-03-10 02:47:35,333 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-02-01-01.npy
+2025-03-10 02:47:35,334 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-02-02-01.npy
+2025-03-10 02:47:35,335 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-01-01-01.npy
+2025-03-10 02:47:35,336 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-01-02-01.npy
+2025-03-10 02:47:35,337 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-02-01-01.npy
+2025-03-10 02:47:35,338 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-02-02-01.npy
+2025-03-10 02:47:35,339 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-01-01-01.npy
+2025-03-10 02:47:35,340 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-01-02-01.npy
+2025-03-10 02:47:35,341 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-02-01-01.npy
+2025-03-10 02:47:35,343 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-02-02-01.npy
+2025-03-10 02:47:35,344 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-01-01-01.npy
+2025-03-10 02:47:35,345 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-01-02-01.npy
+2025-03-10 02:47:35,346 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-02-01-01.npy
+2025-03-10 02:47:35,347 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-02-02-01.npy
+2025-03-10 02:47:35,348 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-01-01-01.npy
+2025-03-10 02:47:35,348 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-01-02-01.npy
+2025-03-10 02:47:35,350 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-02-01-01.npy
+2025-03-10 02:47:35,351 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-02-02-01.npy
+2025-03-10 02:47:35,352 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-01-01-01.npy
+2025-03-10 02:47:35,353 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-01-02-01.npy
+2025-03-10 02:47:35,354 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-02-01-01.npy
+2025-03-10 02:47:35,354 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-02-02-01.npy
+2025-03-10 02:47:35,356 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-01-01-01.npy
+2025-03-10 02:47:35,356 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-01-02-01.npy
+2025-03-10 02:47:35,357 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-02-01-01.npy
+2025-03-10 02:47:35,359 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-02-02-01.npy
+2025-03-10 02:47:35,360 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-01-01-01.npy
+2025-03-10 02:47:35,361 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-01-02-01.npy
+2025-03-10 02:47:35,362 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-02-01-01.npy
+2025-03-10 02:47:35,363 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-02-02-01.npy
+2025-03-10 02:47:35,365 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-01-01-01.npy
+2025-03-10 02:47:35,366 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-01-02-01.npy
+2025-03-10 02:47:35,367 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-02-01-01.npy
+2025-03-10 02:47:35,368 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-02-02-01.npy
+2025-03-10 02:47:35,368 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-01-01-01.npy
+2025-03-10 02:47:35,369 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-01-02-01.npy
+2025-03-10 02:47:35,370 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-02-01-01.npy
+2025-03-10 02:47:35,371 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-02-02-01.npy
+2025-03-10 02:47:35,372 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-01-01-01.npy
+2025-03-10 02:47:35,373 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-01-02-01.npy
+2025-03-10 02:47:35,375 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-02-01-01.npy
+2025-03-10 02:47:35,375 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-02-02-01.npy
+2025-03-10 02:47:35,376 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-01-01-01.npy
+2025-03-10 02:47:35,377 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-01-02-01.npy
+2025-03-10 02:47:35,378 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-02-01-01.npy
+2025-03-10 02:47:35,379 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-02-02-01.npy
+2025-03-10 02:47:35,379 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-01-01-01.npy
+2025-03-10 02:47:35,380 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-01-02-01.npy
+2025-03-10 02:47:35,381 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-02-01-01.npy
+2025-03-10 02:47:35,382 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-02-02-01.npy
+2025-03-10 02:47:35,383 - DataLoader - INFO - 共加载 0 个有效样本
+2025-03-10 02:50:16,211 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:50:16,215 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-01-01-01.npy
+2025-03-10 02:50:16,216 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-01-02-01.npy
+2025-03-10 02:50:16,218 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-02-01-01.npy
+2025-03-10 02:50:16,219 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-01-01-02-02-01.npy
+2025-03-10 02:50:16,220 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-01-01-01.npy
+2025-03-10 02:50:16,221 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-01-02-01.npy
+2025-03-10 02:50:16,223 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-02-01-01.npy
+2025-03-10 02:50:16,223 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-01-02-02-01.npy
+2025-03-10 02:50:16,225 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-01-01-01.npy
+2025-03-10 02:50:16,226 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-01-02-01.npy
+2025-03-10 02:50:16,227 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-02-01-01.npy
+2025-03-10 02:50:16,228 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-02-02-02-02-01.npy
+2025-03-10 02:50:16,230 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-01-01-01.npy
+2025-03-10 02:50:16,231 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-01-02-01.npy
+2025-03-10 02:50:16,233 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-02-01-01.npy
+2025-03-10 02:50:16,233 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-01-02-02-01.npy
+2025-03-10 02:50:16,235 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-01-01-01.npy
+2025-03-10 02:50:16,236 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-01-02-01.npy
+2025-03-10 02:50:16,237 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-02-01-01.npy
+2025-03-10 02:50:16,238 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-03-02-02-02-01.npy
+2025-03-10 02:50:16,240 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-01-01-01.npy
+2025-03-10 02:50:16,242 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-01-02-01.npy
+2025-03-10 02:50:16,243 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-02-01-01.npy
+2025-03-10 02:50:16,244 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-01-02-02-01.npy
+2025-03-10 02:50:16,244 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-01-01-01.npy
+2025-03-10 02:50:16,246 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-01-02-01.npy
+2025-03-10 02:50:16,247 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-02-01-01.npy
+2025-03-10 02:50:16,248 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-04-02-02-02-01.npy
+2025-03-10 02:50:16,250 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-01-01-01.npy
+2025-03-10 02:50:16,251 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-01-02-01.npy
+2025-03-10 02:50:16,252 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-02-01-01.npy
+2025-03-10 02:50:16,253 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-01-02-02-01.npy
+2025-03-10 02:50:16,254 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-01-01-01.npy
+2025-03-10 02:50:16,255 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-01-02-01.npy
+2025-03-10 02:50:16,256 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-02-01-01.npy
+2025-03-10 02:50:16,258 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-05-02-02-02-01.npy
+2025-03-10 02:50:16,259 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-01-01-01.npy
+2025-03-10 02:50:16,260 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-01-02-01.npy
+2025-03-10 02:50:16,261 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-02-01-01.npy
+2025-03-10 02:50:16,262 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-01-02-02-01.npy
+2025-03-10 02:50:16,263 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-01-01-01.npy
+2025-03-10 02:50:16,264 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-01-02-01.npy
+2025-03-10 02:50:16,265 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-02-01-01.npy
+2025-03-10 02:50:16,266 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\01-02-06-02-02-02-01.npy
+2025-03-10 02:50:16,267 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-01-01-01.npy
+2025-03-10 02:50:16,268 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-01-02-01.npy
+2025-03-10 02:50:16,269 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-02-01-01.npy
+2025-03-10 02:50:16,270 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-01-01-02-02-01.npy
+2025-03-10 02:50:16,273 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-01-01-01.npy
+2025-03-10 02:50:16,274 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-01-02-01.npy
+2025-03-10 02:50:16,275 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-02-01-01.npy
+2025-03-10 02:50:16,276 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-01-02-02-01.npy
+2025-03-10 02:50:16,277 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-01-01-01.npy
+2025-03-10 02:50:16,278 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-01-02-01.npy
+2025-03-10 02:50:16,279 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-02-01-01.npy
+2025-03-10 02:50:16,280 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-02-02-02-02-01.npy
+2025-03-10 02:50:16,282 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-01-01-01.npy
+2025-03-10 02:50:16,283 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-01-02-01.npy
+2025-03-10 02:50:16,285 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-02-01-01.npy
+2025-03-10 02:50:16,286 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-01-02-02-01.npy
+2025-03-10 02:50:16,287 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-01-01-01.npy
+2025-03-10 02:50:16,288 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-01-02-01.npy
+2025-03-10 02:50:16,289 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-02-01-01.npy
+2025-03-10 02:50:16,290 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-03-02-02-02-01.npy
+2025-03-10 02:50:16,292 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-01-01-01.npy
+2025-03-10 02:50:16,293 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-01-02-01.npy
+2025-03-10 02:50:16,293 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-02-01-01.npy
+2025-03-10 02:50:16,294 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-01-02-02-01.npy
+2025-03-10 02:50:16,295 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-01-01-01.npy
+2025-03-10 02:50:16,296 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-01-02-01.npy
+2025-03-10 02:50:16,296 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-02-01-01.npy
+2025-03-10 02:50:16,298 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-04-02-02-02-01.npy
+2025-03-10 02:50:16,298 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-01-01-01.npy
+2025-03-10 02:50:16,299 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-01-02-01.npy
+2025-03-10 02:50:16,300 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-02-01-01.npy
+2025-03-10 02:50:16,301 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-01-02-02-01.npy
+2025-03-10 02:50:16,302 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-01-01-01.npy
+2025-03-10 02:50:16,303 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-01-02-01.npy
+2025-03-10 02:50:16,304 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-02-01-01.npy
+2025-03-10 02:50:16,305 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-05-02-02-02-01.npy
+2025-03-10 02:50:16,306 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-01-01-01.npy
+2025-03-10 02:50:16,308 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-01-02-01.npy
+2025-03-10 02:50:16,309 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-02-01-01.npy
+2025-03-10 02:50:16,310 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-01-02-02-01.npy
+2025-03-10 02:50:16,310 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-01-01-01.npy
+2025-03-10 02:50:16,311 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-01-02-01.npy
+2025-03-10 02:50:16,312 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-02-01-01.npy
+2025-03-10 02:50:16,312 - DataLoader - WARNING - 缺失音频文件: data/processed/audio_features\Audio_Song_Actors_01-24\Actor_01\02-02-06-02-02-02-01.npy
+2025-03-10 02:50:16,313 - DataLoader - INFO - 共加载 0 个有效样本
+2025-03-10 02:50:29,455 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:50:29,470 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 02:51:27,630 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:51:27,638 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 02:52:04,827 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:52:04,837 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 02:54:12,359 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:54:12,369 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 02:55:53,353 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:55:53,364 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 02:58:09,933 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 02:58:09,944 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 03:00:18,204 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 03:00:18,213 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 03:01:50,405 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 03:01:50,413 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 03:02:12,310 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 03:02:12,322 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 03:03:05,944 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 03:03:05,952 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 03:05:52,113 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 03:05:52,120 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 03:07:55,018 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 03:07:55,032 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 23:09:49,070 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 23:09:49,103 - DataLoader - INFO - 共加载 88 个有效样本
+2025-03-10 23:10:06,612 - DataLoader - INFO - 初始化多模态数据集
+2025-03-10 23:10:06,623 - DataLoader - INFO - 共加载 88 个有效样本

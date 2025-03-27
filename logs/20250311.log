@@ -1,0 +1,39 @@
+2025-03-11 00:58:30,958 - VideoExtractor - ERROR - 处理失败：type object 'Config' has no attribute 'RAW_VIDEO_ROOT'
+2025-03-11 00:59:48,702 - VideoProcessor - INFO - 发现 5 个视频数据集
+2025-03-11 00:59:48,703 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_01
+2025-03-11 01:26:44,451 - VideoProcessor - INFO - 发现 19 个视频数据集
+2025-03-11 01:26:44,452 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_01
+2025-03-11 01:35:24,599 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_02
+2025-03-11 01:44:57,002 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_03
+2025-03-11 01:53:53,212 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_04
+2025-03-11 02:02:15,365 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_05
+2025-03-11 02:11:32,478 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_06
+2025-03-11 02:20:45,318 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_07
+2025-03-11 02:29:43,294 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_08
+2025-03-11 02:38:51,635 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_09
+2025-03-11 02:47:51,230 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_10
+2025-03-11 02:57:21,000 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_11
+2025-03-11 03:05:51,175 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_12
+2025-03-11 03:14:31,658 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_13
+2025-03-11 03:23:12,929 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_14
+2025-03-11 03:31:32,445 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_15
+2025-03-11 03:39:47,229 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_16
+2025-03-11 03:48:53,259 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_17
+2025-03-11 03:58:37,496 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_19
+2025-03-11 04:07:39,422 - VideoProcessor - INFO - 正在处理数据集：Video_Song_Actor_20
+2025-03-11 11:09:39,624 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 11:09:39,865 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 11:09:55,379 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 11:09:55,525 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 11:10:13,748 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 11:10:13,936 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 11:23:58,672 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 11:23:58,838 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 11:38:58,302 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 11:38:58,455 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 12:09:07,327 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 12:09:07,468 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 12:09:29,218 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 12:09:29,358 - DataLoader - INFO - 共加载 1672 个有效样本
+2025-03-11 18:04:58,844 - DataLoader - INFO - 初始化多模态数据集
+2025-03-11 18:04:59,005 - DataLoader - INFO - 共加载 1672 个有效样本
